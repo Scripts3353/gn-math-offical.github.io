@@ -1,13 +1,13 @@
 :root {
-    --primary: #fc2651;
-    --primary-hover: #e91e47;
+    --primary: #000000;
+    --primary-hover: #FFFFFF;
     --primary-light: rgba(252, 38, 81, 0.1);
     --primary-lighter: rgba(252, 38, 81, 0.05);
     --accent: #8b5cf6;
     --accent-light: rgba(139, 92, 246, 0.1);
     --success: #10b981;
     --warning: #f59e0b;
-    --text: #1a1a1a;
+    --text: #FFFFFF;
     --text-muted: #6b7280;
     --text-light: #9ca3af;
     --bg: #ffffff;
@@ -602,4 +602,5 @@ footer {
     .zone-item:hover {
         transform: translateY(-4px) scale(1.01);
     }
+
 }
